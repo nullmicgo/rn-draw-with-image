@@ -1,0 +1,40 @@
+{
+  "name": "rn-draw",
+  "version": "0.0.8-beta.0",
+  "description": "Drawing library for react-native using svg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests currently\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayeszee/rn-draw.git"
+  },
+  "keywords": [
+    "react-native",
+    "svg",
+    "draw",
+    "android",
+    "ios",
+    "mobile",
+    "expo",
+    "sketch",
+    "signaturepad"
+  ],
+  "author": "Jack Zhang <j@ckzhang.com>",
+  "bugs": {
+    "url": "https://github.com/jayeszee/rn-draw/issues"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*",
+    "lodash": "*"
+  },
+  "dependencies": {
+    "humps": "^2.0.1",
+    "d3-shape": "^1.3.5"
+  }
+}
